@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 function MessageInput({ onSendMessage, isTyping }) {
   const [input, setInput] = useState('');

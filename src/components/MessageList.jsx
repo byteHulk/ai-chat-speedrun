@@ -22,4 +22,5 @@ function Message({ type, content }) {
   );
 }
 
-export { MessageList, Message };
+export default MessageList;
+export { Message };

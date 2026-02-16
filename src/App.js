@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useRef } from 'react';
-import ChatContainer from './components/ChatContainer';
 import MessageList from './components/MessageList';
 import MessageInput from './components/MessageInput';
 import Header from './components/Header';
